@@ -154,6 +154,7 @@ bindsym $mod+r mode "resize"
 exec --no-startup-id synergy
 exec --no-startup-id nm-applet
 exec --no-startup-id pa-applet
+exec --no-startup-id dropbox start
 
 # change colours
 client.focused          #3F8AC2 #096BAA #00BAA7 #00DA8E
